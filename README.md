@@ -1,7 +1,13 @@
-This is my master's thesis on **the optimal cooling of internally heated fluids**.
+#### Master's Thesis: Optimal Cooling of Internally Heated Fluids
 
-The model, which consists of **a horizontal strip** containing a fluid, is illustrated below.
+This thesis explores **the optimal cooling strategies** for internally heated fluids confined within **a horizontal strip**, as illustrated in the diagram below:
 
 <img width="604" alt="domain" src="https://github.com/user-attachments/assets/bd1dadbc-07e2-4ee6-ad2d-d1f8126b1d3d" />
+
+A key focus of this work is investigating **the lower bound of heat transfer efficiency** as the **Péclet number (Pe)** increases. The Péclet number quantifies the relative strength of advection to diffusion in a flow system. The main result is depicted in the figure below:
+
+![bijiao](https://github.com/user-attachments/assets/1c807898-13c0-4fbe-ab73-36e24c312da7)
+
+The optimal lower bound on Pe (dotted line), is shown alongside the analytical bound (dash-dot line). The data have been compensated by Pe to facilitate direct comparison with the asymptotic scaling prediction.
 
 It has been a rewarding experience to work on this project.
