@@ -1,7 +1,7 @@
 clear, clc, close all
 
 z = chebpts(512);
-    FILES = dir("/Users/alagris/Documents/MATLAB/results/*.mat");
+    FILES = dir(".../*.mat");
     SIZE = size(FILES);
     LB = zeros(SIZE);
     Pe = zeros(SIZE);
