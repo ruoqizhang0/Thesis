@@ -1,4 +1,4 @@
-#### Master's Thesis: Optimal Cooling of Internally Heated Fluids
+####Master's Thesis: Optimal Cooling of Internally Heated Fluids
 
 This thesis explores **the optimal cooling strategies** for internally heated fluids confined within **a horizontal strip**, as illustrated in the diagram below:
 
